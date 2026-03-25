@@ -4,6 +4,8 @@
 
 I build cloud-native platforms and backend systems that keep critical financial infrastructure running at scale.
 
+View my [old Github account](https://github.com/exosolarplanet) for my old uni projects.
+
 ---
 
 ### 🔧 What I work with
